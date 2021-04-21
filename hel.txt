@@ -1,0 +1,7 @@
+
+#EXTM3U
+
+#EXTINF:-1,iptvtools_1
+http://95.251.217.178:8080/
+#EXTINF:-1,iptvtools_2
+http://50.123.1.171/
